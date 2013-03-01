@@ -1,5 +1,6 @@
-b6fb285a04e4b659f471d5a80f3d5950 *DESCRIPTION
+772654acf43a4364b8ac2183a33849af *DESCRIPTION
 63fa36dc95e4fcdfcdc288b8521274fd *NAMESPACE
+20ae787bf9c063a50c710e4351003d9a *NEWS
 1a1356b918fe8035c09f9043ab2075bf *R/allgensnp.R
 f3f6024ad38c3f730635680e4e4289e7 *R/allphenotypes.R
 03ff74579450cde091f4ac256eb7f33b *R/annotations.R
@@ -9,11 +10,9 @@ f2ba84c857c13779d79b9507e6723891 *R/genotypes.R
 58f2c5cb8e1c1d0d2d91e93cbe0a75d8 *R/phenotypes_byid.R
 200c0cbbc180852351b2f8ab253a2cd1 *R/users.R
 5398fb5e47b952059819d0e57449c790 *README.md
-8e319f9b5f795f37d262163ef0dcdeab *inst/NEWS
-e933fa91a857cc5b57c29b4cda1a9097 *inst/tests/test-allgensnp.R
 e3828de0bcb518a2669c491b933c2fd4 *inst/tests/test-allphenotypes.R
 006062ba763c4cbed99de336f13a8917 *inst/tests/test-annotations.R
-2a7075c415a0358380cf0b72977623a2 *inst/tests/test-fetch_genotypes.R
+ddd112b03ee86d7fa946d1dc832f0098 *inst/tests/test-fetch_genotypes.R
 a4dac533c296a9db45dbe6e7d376522a *inst/tests/test-genotypes.R
 0fa7d1045ae027044b83f0d0eec56a1b *inst/tests/test-phenotypes.R
 674b8bcf8e5adb6a1063fffcd6cdf906 *inst/tests/test-phenotypes_byid.R
@@ -25,4 +24,3 @@ a4dac533c296a9db45dbe6e7d376522a *inst/tests/test-genotypes.R
 61a14ae29065c44203e9e385fa23c041 *man/phenotypes.Rd
 3e3db687cf188b656c22add279a8a7f7 *man/phenotypes_byid.Rd
 afb75c804034055248dbdcf977e799d1 *man/users.Rd
-8f17f593ae3697a36845f91598070412 *tests/test-all.R
